@@ -11,12 +11,8 @@
 - Gestão de estoque integrada
 - Relacionamento fornecedores-produtos
 
-## Como Executar
+## Como Executa
 
-1. Clone o repositório:
-```bash git clone https://github.com/crgolart12/ecommerce-database/tree/main
-
-```
 
 2. Execute o script SQL:
 ```bash
