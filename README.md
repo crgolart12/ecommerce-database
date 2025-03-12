@@ -14,12 +14,12 @@
 ## Como Executa
 
 
-2. Execute o script SQL:
+1. Execute o script SQL:
 ```bash
 mysql -u usuario -p < ecommerce.sql
 ```
 
-3. Teste as queries:
+2. Teste as queries:
 ```bash
 mysql -u usuario -p ecommerce < queries.sql
 ```
